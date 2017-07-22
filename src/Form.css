@@ -1,0 +1,21 @@
+.form {
+  background-color: #E7EAEB;
+  text-align: center;
+  border-radius: 1vw;
+  padding: 1vw;
+  margin: 1vw 0;
+}
+
+.form button {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: .4vw;
+  padding: .5vw;
+  margin-top: 1vw;
+}
+
+.form input {
+  width: 23vw;
+}

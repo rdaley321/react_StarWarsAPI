@@ -1,0 +1,15 @@
+.header {
+  padding: 3em;
+  background-color: #E7EAEB;
+  border-radius: 1vw;
+  margin-top: 2vw;
+}
+
+.header-text h1 {
+  font-weight: normal;
+  font-size: 3em;
+}
+
+hr {
+  width: 90%;
+}

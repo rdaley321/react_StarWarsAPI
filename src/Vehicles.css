@@ -1,0 +1,38 @@
+.vehicle-main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.vehicle {
+  flex-basis: 30%;
+  background-color: #E7EAEB;
+  margin: .5vw;
+  border-radius: 1vw;
+  padding: 1vw;
+}
+
+.vehicle-content {
+  border: 1px solid darkgray;
+}
+
+.model {
+  color: gray;
+}
+
+.specs {
+  color: gray;
+}
+
+.vehicle-content {
+  padding: 0 1vw;
+}
+
+.vehicle-content hr {
+  width: 100%;
+}
+
+.vehicle-content h4 {
+  padding: 0 2vw;
+  font-weight: normal;
+}
